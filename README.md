@@ -1,2 +1,3 @@
 # BlogNews
-Plantilla para sitio web de blog de noticias... 🤙🏼
+Plantilla para sitio web de blog de noticias... 🤙🏼 
+html ,  css,  js.
